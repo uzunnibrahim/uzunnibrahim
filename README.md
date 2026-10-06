@@ -1,16 +1,21 @@
 ### Hi, I'm İbrahim 👋
 
-Mobile developer working natively on **iOS (Swift, SwiftUI)** and **Android (Kotlin)**, with a soft spot for apps that talk to hardware over **Bluetooth**. I also build web front ends and APIs when a project needs them.
+Software developer and **mobile team lead**. I lead a team building native iOS and Android apps, and I have shipped work across the whole stack: mobile apps, websites, e-commerce, backend APIs and desktop tools.
+
+#### What I do
+
+- **Mobile:** native iOS (Swift, SwiftUI, UIKit) and Android (Kotlin), from first screen to App Store and Google Play
+- **Web:** company websites, e-commerce stores and admin panels with React, TypeScript, Tailwind and WordPress
+- **Backend:** REST APIs with PHP (Symfony) and Python (FastAPI), MySQL, payment and shipping integrations
+- **Desktop and tooling:** macOS apps in SwiftUI, command-line tools, CI
+- **Leading a team:** planning, code review, release management and mentoring
 
 #### Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Amphora**](https://github.com/uzunnibrahim/amphora) | Runs Windows games on Apple Silicon Macs from declarative recipes. A Mac app plus a CLI; it installs everything it needs by itself. | Swift, SwiftUI, Wine, DXVK |
-| [**amphora-recipes**](https://github.com/uzunnibrahim/amphora-recipes) | Community recipes for Amphora: a JSON Schema, a linter and CI that rejects anything touching DRM or anti-cheat. | YAML, JSON Schema, Python |
+| [**Amphora**](https://github.com/uzunnibrahim/amphora) | Runs Windows games on Apple Silicon Macs from declarative recipes. A Mac app plus a CLI; it installs everything it needs by itself. | Swift, SwiftUI, Wine |
+| [**amphora-recipes**](https://github.com/uzunnibrahim/amphora-recipes) | Community recipes for Amphora, with a JSON Schema, a linter and CI. | YAML, JSON Schema, Python |
+| [**Childminder**](https://github.com/uzunnibrahim/Childminder) | iOS app that alerts a parent when their child moves out of range. My graduation project. | Swift, SwiftUI |
 
-#### What I work with
-
-- **Mobile:** Swift, SwiftUI, UIKit, CoreBluetooth, Kotlin
-- **Web:** React, TypeScript, Tailwind, PHP (Symfony), Python (FastAPI), WordPress
-- **Integrations:** payment (iyzico), shipping carrier APIs, BLE devices, ESP32
+I have also built websites and online stores for businesses, including the site of [Saygın Otel](https://sayginotel.com), a boutique hotel in Marmaris. Client code is private.
