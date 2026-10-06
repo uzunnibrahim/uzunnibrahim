@@ -19,4 +19,4 @@ Software developer and **mobile team lead**. I lead a team building native iOS a
 
 My university graduation project, [Childminder](https://github.com/uzunnibrahim/Childminder), is an iOS app that alerts a parent when their child moves out of range.
 
-I have also built websites and online stores for businesses, including the site of [Saygın Otel](https://sayginotel.com), a boutique hotel in Marmaris. Client code is private.
+I have also built websites and online stores for businesses, including the site of [Saygın Otel](https://sayginotelkumcagiz.com), a hotel in Kumcağız. Client code is private.
