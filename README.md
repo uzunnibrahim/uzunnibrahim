@@ -12,11 +12,8 @@ Software developer and **mobile team lead**. I lead a team building native iOS a
 
 #### Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Amphora**](https://github.com/uzunnibrahim/amphora) | Runs Windows games on Apple Silicon Macs from declarative recipes. A Mac app plus a CLI; it installs everything it needs by itself. | Swift, SwiftUI, Wine |
-| [**amphora-recipes**](https://github.com/uzunnibrahim/amphora-recipes) | Community recipes for Amphora, with a JSON Schema, a linter and CI. | YAML, JSON Schema, Python |
-
 My university graduation project, [Childminder](https://github.com/uzunnibrahim/Childminder), is an iOS app that alerts a parent when their child moves out of range.
 
 I have also built websites and online stores for businesses, including the site of [Saygın Otel](https://sayginotelkumcagiz.com), a hotel in Kumcağız. Client code is private.
+
+More of my work, with live demos, is at [uzunnibrahim.com](https://uzunnibrahim.com).
